@@ -6,16 +6,16 @@ Welcome to the LifeEasy setup guide! Follow these instructions to get LifeEasy u
 
 Before you begin, ensure you have the following software installed:
 
-1. **Git**: Required for version control.
+1. **Git**: Required for version control. (**mandatory**)
    - [Download and install Git](https://git-scm.com)
 
-2. **Docker**: Essential for containerizing and managing application services.
+2. **Docker**: Essential for containerizing and managing application services. (**mandatory**)
    - [Download and install Docker](https://docs.docker.com/get-docker/)
    - The docker should have CPUs 4 and a memory of 4GB.
    - The arch should be aarch64.
-3. [Razorpay Payment Integration](https://razorpay.com/docs/payments/server-integration/nodejs/integration-steps/#1-build-integration)
-4. Mail Integration
-5. Rapid Api Integration
+3. Mail Integration - (**mandatory**)
+4. [Razorpay Payment Integration](https://razorpay.com/docs/payments/server-integration/nodejs/integration-steps/#1-build-integration) (optional)
+5. Rapid Api Integration (optional)
 
 ## Installation
 
