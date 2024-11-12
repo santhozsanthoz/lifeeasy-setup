@@ -11,6 +11,7 @@ Before you begin, ensure you have the following software installed:
 
 2. **Docker**: Essential for containerizing and managing application services.
    - [Download and install Docker](https://docs.docker.com/get-docker/)
+   - The docker should have a memory 4GB
 3. [Razorpay Payment Integration](https://razorpay.com/docs/payments/server-integration/nodejs/integration-steps/#1-build-integration)
 4. Mail Integration
 5. Rapid Api Integration
